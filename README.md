@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Markus Oberndorfer.
-- 🌱 I’m currently studying Biomedical Engineering - Computational Neuroscience at TU Graz..
+- 🌱 I’m currently doing my PhD at the Institute of Neural Engineering (Graz University of Technology).
 - 📫 How to reach me:
-  - markusoberndorfer8@gmail.com
+  - markus.oberndorfer@tugraz.at
 
